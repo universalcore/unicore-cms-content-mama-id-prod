@@ -4,14 +4,14 @@
   "language": "ind_ID", 
   "title": "Bulan 3 ", 
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
-  "created_at": "2014-12-05T21:35:06.072901+00:00", 
+  "created_at": "2014-12-05T21:35:06+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-05T21:35:06.073129+00:00", 
+  "modified_at": "2014-12-05T22:27:17.760946+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month3_Indonesian_Pregnancy", 
   "uuid": "b316b919bc3e4dc2b7ebff745894b21b"
