@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T10:28:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T10:17:30.568968+00:00", 
+  "modified_at": "2015-02-26T10:17:38.929362+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7163cef81cb04568b5cac30bb7955bd2", 
+    "c7443e5e6b3c4a2593098af16e76c4de", 
+    "e8897ada19594d31b0b3e547ac209517", 
+    "f28c859be80448e7bf05dd9facc58f56", 
+    "dcb21b59ca024a019f58e9218ed2b7ef", 
+    "948262835ded42998f60b1deaa0c7b44"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nSome women want to keep their pregnancy a secret at first. \r\n\r\nBut telling your bidan does not mean you have to tell everyone else. \r\n\r\nTalking about being pregnant with a bidan will be good for you and your baby. It will mean fewer problems if you get the right care early on.\r\n\r\n You can have tests to make sure that you and your baby are healthy. You may be able to have blood and urine (water) tests, and tests for HIV. \r\n\r\nIf you know you are living with HIV, you may be able to have free medication to prevent your baby from becoming HIV+. \r\n\r\nEven if you feel well, get regular check-ups so that you and your baby can stay healthy.\r\n", 
   "source": null, 
