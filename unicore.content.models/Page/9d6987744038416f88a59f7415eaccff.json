@@ -6,15 +6,19 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-20T12:02:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T11:41:50.582689+00:00", 
+  "modified_at": "2015-02-26T11:41:58.833562+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "79d10fe32cad4476965ad8ad3f51c784", 
+    "869511e0e0c243c793519e2d7ec88549", 
+    "6e6a334c514247d6aac6c13f8ab078fe"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf your baby has diarrhoea, she needs to replace the fluids she is losing, or she will get dehydrated. This means that her body does not have enough water to keep going. Keep offering your breast and let her feed as often as she wants.\r\n\r\nDo not give her any fruit juice, cola or sugary drinks. These drinks can make diarrhoea worse.\r\n\r\n**If she is younger than 6 months**, she does not need any water. Breastmilk will give her all she needs.\r\n\r\n**If she is older than 6 months**, give her small sips of clean, safe water between feeds. If you can, try giving her sips of oral rehydration solution (ORS), a few times an hour. ORS is a powder which is dissolved in a litre of clean, boiled and cooled water. You can store this and use it over 8-12 hours. Give your baby 15-20 teaspoons of ORS after each loose stool. Spread the teaspoons out over half an hour.\r\n\r\nTake your baby to a bidan as soon as possible if:\r\n\r\n- she has diarrhoea for more than 1 day\r\n- she has dry skin or lips\r\n- she is passing urine that is dark yellow and she is passing urine less often\r\n- the soft spot in her head is sunken\r\n- she refuses to drink, has blood in her stools or has a swollen tummy\r\n- she vomits for more than a day, or has a fever which lasts more than a day.\r\n", 
   "source": null, 
