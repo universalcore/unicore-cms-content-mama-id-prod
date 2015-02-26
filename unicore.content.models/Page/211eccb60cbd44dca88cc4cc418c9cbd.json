@@ -6,15 +6,22 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-20T12:08:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T11:46:42.622963+00:00", 
+  "modified_at": "2015-02-26T11:47:11.381625+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e74bb2670f2c48a7a6c3881ae60fcba6", 
+    "0f5c652efa394ce7849bb9caa4edd411", 
+    "35a8dad5f6484de7a285500e4ecdd12c", 
+    "801e244ab69641bb8a24806e7fb30d95", 
+    "74a25b77130441999bde71b7f0c6037a", 
+    "869511e0e0c243c793519e2d7ec88549"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nA baby who is growing well will be lively, full of energy and want to play. \r\n\r\nDoes he look straight at you? He may even smile at you! So you know he can see well. \r\n\r\nHave you noticed when you pick him up how much heavier he is getting? This shows that he is feeding well. \r\n\r\nDoes he turn towards new sounds? This means that he hears well.\r\n\r\nIf your baby is sleepy, lacks energy and does not want to play, then it is important that you take him to a bidan to see what is wrong. \r\n\r\nIf your baby has been sick or if you are worried about him, measure his upper arm every month with string. Mark the string, so you know how much he has grown the next time you measure him. If his arm gets bigger, then he is growing. If his arm stays the same or is smaller, he needs more food.\r\n\r\nRegular check-ups with a bidan will help you be sure that he is growing well. Try to take him every few months to be weighed. While you are there, you could ask the bidan any questions you have. Try to ask all your questions in 1 visit. This will save you time.\r\n", 
   "source": null, 
