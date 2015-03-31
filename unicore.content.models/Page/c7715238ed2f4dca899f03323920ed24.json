@@ -4,14 +4,14 @@
   "language": "ind_ID", 
   "title": "Mengapa saya harus beristirahat?", 
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
-  "created_at": "2015-03-26T09:49:27.669221+00:00", 
+  "created_at": "2015-03-26T09:49:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:49:27.669418+00:00", 
+  "modified_at": "2015-03-31T09:54:27.287486+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 84, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-do-i-need-rest", 
   "uuid": "c7715238ed2f4dca899f03323920ed24"
