@@ -6,15 +6,20 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:32:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-31T09:20:49.877929+00:00", 
+  "modified_at": "2015-03-31T09:21:44.235394+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d4039d6be1c94aefa9ead8aa205e0800", 
+    "3a7850ed60b74de1815a5883890b7a3f", 
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "ffda8646f7d34861a11401c6667b930a"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nBeberapa wanita ingin merahasiakan kehamilan mereka pada awalnya.\r\n\r\nTetapi memberitahu bidan Anda tidak berarti Anda harus memberitahu orang lain.\r\n\r\nBerdiskusi tentang kehamilan dengan bidan adalah baik untuk Anda dan bayi Anda. Mendapatkan perawatan baik pada awalnya bisa mengurangi masalah kelak.\r\n\r\nAnda bisa mendapatkan beberapa tes untuk memastikan bahwa Anda dan bayi Anda sehat, diantaranya tes-tes darah, urin dan HIV.\r\n\r\nJika Anda tahu yang Anda hidup dengan HIV, Anda mungkin bisa mendapatkan obat gratis untuk mencegah bayi Anda dari menjadi HIV-positif.\r\n\r\nMeskipun Anda sehat, dapatkan pemeriksaan secara teratur supaya Anda dan bayi Anda bisa tetap sehat.\r\n\r\n", 
   "source": "6c996151f5b94c4e8716d91be2b4b9fe", 
