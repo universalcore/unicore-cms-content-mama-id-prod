@@ -6,15 +6,19 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-20T12:16:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T11:53:21.925631+00:00", 
+  "modified_at": "2015-04-08T09:47:37.403379+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "853ad512364b4a6a93fd745798931561", 
+    "576e46a485e641808f09ebb2c4076b99", 
+    "4794a43d3a154873b9dcf49f0679ee1b"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nMost babies first try to stand up between 8 and 10 months. Your baby may pull himself up to a standing position, using your hands, or the wall, or a piece of furniture.\r\n\r\nAt first, your baby needs to hold on to you or a solid piece of furniture. By 11 months, he may be able to stand without you holding him. Give him lots of praise and cuddles when he does this.\r\n\r\nAs your baby becomes confident, he starts to move around, still holding on to furniture. When he can do this, he will soon be walking!\r\n\r\nYour baby may stand up easily, but he might find it hard to sit back down again! You can help your baby learn to move from standing to sitting down. Instead of picking him up and sitting him down again, show your baby how to bend his knees. Then encourage him to try it! It may take a few days or weeks before he learns how to bend his knees and sit down.\r\n\r\nStay with your baby when he is moving around, then, if he does fall, you can make sure that he does not get hurt. It also means that when he takes his first step on his own, you will not miss it!\r\n\r\nAll babies develop differently, some more quickly than others. If you are worried about how your baby is developing, talk to a bidan.\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 106, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-will-my-baby-stand", 
   "uuid": "e74bb2670f2c48a7a6c3881ae60fcba6"
