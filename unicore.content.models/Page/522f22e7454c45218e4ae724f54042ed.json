@@ -6,15 +6,18 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:15:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T11:04:40.757978+00:00", 
+  "modified_at": "2015-04-08T09:12:42.973480+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "068bb8a1f9634962b8a4f21940df3ea5", 
+    "8775d2f1c17a4bfb958132a3684dff00"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nBreathing in smoke is harmful for you and your baby. \r\n\r\nIf your house is smoky, let in as much fresh air as possible. Open lots of windows and doors. This will help. Explain to other people what effect their smoking will have on your baby growing inside you. \r\n\r\nStay away from smoke. Smoke can make you weak and sick. Open the windows, if your house gets too smoky from cooking. If you live in a cold area where opening doors and windows is not possible, try to stay in the least smoky part of the house. \r\n\r\nAsk your husband, family and friends to smoke outside. \r\n\r\nYou could also try some of these ideas:\r\n\r\n - Move your stove outside if you can, so less smoke goes in the house\r\n - Use LPG, electricity or a kerosene cooker if possible\r\n - Make your stove about waist height - this can reduce direct exposure to smoke when leaning over the fire while cooking\r\n - Using a lid will keep the heat inside the pot, and you can reduce cooking time, so you will breathe in less smoke\r\n - Soak food before cooking to reduce cooking time\r\n - Vacuuming or mopping can reduce the amount of dust you breathe in", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 70, 
+  "position": 171, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your-house-smoky", 
   "uuid": "522f22e7454c45218e4ae724f54042ed"
