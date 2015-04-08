@@ -6,15 +6,21 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T10:58:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T10:26:06.219053+00:00", 
+  "modified_at": "2015-04-08T09:19:29.394865+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "79d10fe32cad4476965ad8ad3f51c784", 
+    "e8897ada19594d31b0b3e547ac209517", 
+    "c3116d1a331a4e01b3e7f1c05a96ef3d", 
+    "12e904fd408e42b0a6c01ae33d5567d1", 
+    "f28c859be80448e7bf05dd9facc58f56"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nThe best way to avoid having fits in pregnancy is to check your blood pressure and urine regularly. You can get these tests from a bidan. \r\n\r\nHaving fits in pregnancy is usually because of pre-eclampsia. If your sister or mother had pre-eclampsia, your risk of getting it is high. You are also more likely to get pre-eclampsia if you had high blood pressure before pregnancy or if you have diabetes.\r\n\r\nExperts think you get pre-eclampsia because your body cannot carry the baby any longer. If this happens, the baby will need to be born earlier than expected. A health facility is the best place to help you to have your baby safely.\r\n\r\nBlood pressure checks and urine tests can identify problems early. So the best way to avoid fits is to see a bidan regularly for tests. Regular checks monitor your health and your body\u2019s ability to carry your baby inside you. \r\n\r\nYour bidan may suggest you start taking calcium tablets when you are about 4 months pregnant. Calcium tablets can help prevent problems in late pregnancy.\r\n\r\nSee a bidan, or go to the health facility immediately if:\r\n\r\n - you have blurred vision\r\n - you have a severe headache\r\n - your face, hands and feet begin to swell suddenly\r\n\r\nThese signs may mean you have pre-eclampsia, and you may have fits if you do not get help quickly.", 
   "source": null, 
@@ -22,7 +28,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 88, 
+  "position": 189, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-sister-had-fits", 
   "uuid": "abeaeb948f6d4888af0f22fb0f152cbe"
