@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:08:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T10:59:19.204528+00:00", 
+  "modified_at": "2015-04-08T09:15:28.239141+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "632b85b329f049509c951d5ca92c296d", 
+    "b374282a3ccb4fc6b7668ae31e1ea39a", 
+    "522f22e7454c45218e4ae724f54042ed", 
+    "068bb8a1f9634962b8a4f21940df3ea5", 
+    "02ce9835ba4f405ba44a2955776c9135", 
+    "dcb21b59ca024a019f58e9218ed2b7ef"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nYou do not want to get sick while you are pregnant.\r\n\r\nWash your hands regularly with soap. Encourage your family to do it as well. Keeping your hands clean helps to prevent illnesses like pneumonia and diarrhoea.\r\n\r\nWash your hands:\r\n\r\n - when you come home\r\n - after you go to the toilet\r\n - after dealing with animals\r\n - before cooking \r\n - after handling raw eggs, meat or fish\r\n - before you eat\r\n\r\nHere is how to do it:\r\n\r\n - You need clean water and soap\r\n - Put a good amount of soap on to your palm\r\n - Rub both hands together, palm to palm, to make a lather\r\n - If you are using a bar of soap, turn it round in your hands until you work up a good lather\r\n - Clean between your fingers\r\n - Make sure you wash your wrists, hands and nails\r\n - Continue rubbing your hands, on both sides, for at least 15 seconds\r\n - Wash the soap off your hands with clean, safe water\r\n - Dry your hands using a clean towel\r\n\r\nYou could set up a wash stand near your cooking area or near the toilet to make it easy.\r\n\r\nJust by washing your hands, you can really reduce the risk of diseases like diarrhoea.\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 79, 
+  "position": 180, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-wash-my-hands", 
   "uuid": "8775d2f1c17a4bfb958132a3684dff00"
