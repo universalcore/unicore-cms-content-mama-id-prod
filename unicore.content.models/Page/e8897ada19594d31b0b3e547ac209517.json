@@ -6,15 +6,24 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:04:21+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T10:55:50.007030+00:00", 
+  "modified_at": "2015-04-08T09:16:40.109386+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "79d10fe32cad4476965ad8ad3f51c784", 
+    "c459fb7a77714df693cdbc15722492cc", 
+    "3a996b1b468d4794a56ec4246ffa4b5f", 
+    "c3116d1a331a4e01b3e7f1c05a96ef3d", 
+    "12e904fd408e42b0a6c01ae33d5567d1", 
+    "809d98d183064191af1b4141232af6f8", 
+    "f28c859be80448e7bf05dd9facc58f56", 
+    "dcb21b59ca024a019f58e9218ed2b7ef"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nYour body changes in many ways in pregnancy, and it is normal to wonder if you need to worry about any of these changes.\r\n\r\n**This is normal** Are you tired one minute, fine the next, feeling nauseous in the mornings, getting indigestion, having to pass urine more often, is your skin changing? Feeling breathless? Welcome to pregnancy!\r\n\r\n**These are warning signs** See a bidan if you have any of these feelings:\r\n\r\n - Pain in your belly\r\n - A fever\r\n - Blurred or double vision and you are seeing spots in front of your eyes\r\n - Fluid leaking from your vagina\r\n - Pain when passing urine\r\n - If you are past 5 months in your pregnancy, and your baby has stopped kicking or is kicking much less\r\n - If you have heavy bleeding or bleeding with pain. ", 
   "source": null, 
@@ -22,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 82, 
+  "position": 183, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "warning-signs", 
   "uuid": "e8897ada19594d31b0b3e547ac209517"
