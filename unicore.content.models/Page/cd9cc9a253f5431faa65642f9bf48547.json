@@ -6,15 +6,18 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-20T12:11:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T11:49:38.427843+00:00", 
+  "modified_at": "2015-04-08T09:43:33.816941+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6f435a31ecac4d40b6c900d1d6077e2c", 
+    "fd4a6e93d5a94cf891be48fea70ad042"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nYour baby needs to eat solid foods when he is 6 months old. But he also still needs breastmilk.\r\n\r\nAs he grows older, he will need more food and a greater variety of food. But babies can be fussy eaters, and they can lose interest in food easily.\r\n\r\nHere are some tips to make sure your baby eats well:\r\n\r\n - Feed him lots of tasty foods. Take your time. Sit and talk to him while he eats. Eating is a new skill for him, and he is learning.\r\n - If your baby refuses to eat, be patient. Do not force him. Do not give him sugar, or unhealthy foods. They have no goodness, and are bad for your baby. \r\n - Give him lots of colours, tastes and textures. As babies grow, their tastes change often. What your baby may hate now, he may love in a few weeks!\r\n - Make mealtimes fun. Make sure he is comfortable and that mealtimes are enjoyable for you both.\r\n - Make eye contact, smile and talk to him. Let his meals be a social time. It will help him to eat, and it will also help him learn social skills and new words.\r\n - If your baby is easily distracted while eating, take him to a quiet place and gently encourage him to eat. \r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 113, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mealtimes-my-baby", 
   "uuid": "cd9cc9a253f5431faa65642f9bf48547"
