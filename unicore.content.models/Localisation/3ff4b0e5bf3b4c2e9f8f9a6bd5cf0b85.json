@@ -1,13 +1,17 @@
 {
+  "uuid": "3ff4b0e5bf3b4c2e9f8f9a6bd5cf0b85", 
+  "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "ind_ID", 
   "image": null, 
-  "image_host": "http://thumbor.unicore.io", 
+  "logo_text": "Saran dari pakar-pakar", 
+  "logo_image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "uuid": "3ff4b0e5bf3b4c2e9f8f9a6bd5cf0b85"
+  "logo_description": "Saran dari pakar-pakar", 
+  "image_host": "http://thumbor.unicore.io"
 }
