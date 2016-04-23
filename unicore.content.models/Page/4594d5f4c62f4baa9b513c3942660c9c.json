@@ -6,12 +6,12 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:15:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-31T10:31:24.264660+00:00", 
+  "modified_at": "2016-04-23T10:56:21.302451+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 45, 
+  "position": 57, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-keep-my-baby-warm", 
   "uuid": "4594d5f4c62f4baa9b513c3942660c9c"
